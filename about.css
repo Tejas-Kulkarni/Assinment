@@ -1,0 +1,14 @@
+#firstRow{
+    background-color: black ;
+    padding:10px;
+    margin-bottom:80px;
+}
+#secRowfirstCol{
+    background-color: mediumaquamarine;
+}
+#secRowsecCol{
+    background-color: magenta;
+}
+.container{
+    margin-top:80px;
+}

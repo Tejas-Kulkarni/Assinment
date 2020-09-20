@@ -1,0 +1,23 @@
+input{
+    margin-top: 10%;
+    width:100%;
+    font-size: 20px;
+    
+}
+label{
+    margin-top: 10%;
+   
+    font-size: 20px;
+}
+.padding{
+    margin-top: 5%;
+    padding:50px;
+    width:500px;
+    height:500px;
+    background-color: mediumaquamarine;
+    border-radius: 5%;
+}
+button{
+    width:100%;
+    margin-top:8%;
+}
